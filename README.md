@@ -1,5 +1,16 @@
-## novuelle vague 
+## Larp final boss 
 # `std::cout << jungwonenjoyericl << std::endl;`
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,python,ruby,cs,cpp,go,rust" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,dart,react,django,git" />
+</p>
+
+<hr>
 
 <!--
 **jungwonenjoyericl/jungwonenjoyericl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
