@@ -1,7 +1,7 @@
 ## Larp final boss 
 # `std::cout << jungwonenjoyericl << std::endl;`
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <br>
 
