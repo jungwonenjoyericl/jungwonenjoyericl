@@ -6,8 +6,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,python,ruby,cs,cpp,go,rust" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,dart,react,django,git" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 <hr>
